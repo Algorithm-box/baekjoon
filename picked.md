@@ -1,3 +1,12 @@
+## 2021/07/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20162](https://www.acmicpc.net/problem/20162) | [간식 파티](https://www.acmicpc.net/problem/20162) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4095](https://www.acmicpc.net/problem/4095) | [최대 정사각형](https://www.acmicpc.net/problem/4095) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3673](https://www.acmicpc.net/problem/3673) | [나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) |
+
 ## 2021/07/09 
 
 | 난이도 | 번호 | 문제 이름 |
