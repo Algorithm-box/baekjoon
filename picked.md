@@ -1,3 +1,12 @@
+## 2021/07/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9375](https://www.acmicpc.net/problem/9375) | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+
 ## 2021/07/12 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -93,7 +102,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [14697](https://www.acmicpc.net/problem/14697) | [방 배정하기](https://www.acmicpc.net/problem/14697) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14712](https://www.acmicpc.net/problem/14712) | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14712](https://www.acmicpc.net/problem/14712) | [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20210](https://www.acmicpc.net/problem/20210) | [파일 탐색기](https://www.acmicpc.net/problem/20210) |
 
