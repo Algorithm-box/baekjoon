@@ -1,3 +1,12 @@
+## 2021/08/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16922](https://www.acmicpc.net/problem/16922) | [로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19951](https://www.acmicpc.net/problem/19951) | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17845](https://www.acmicpc.net/problem/17845) | [수강 과목](https://www.acmicpc.net/problem/17845) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2613](https://www.acmicpc.net/problem/2613) | [숫자구슬](https://www.acmicpc.net/problem/2613) |
+
 ## 2021/07/31 
 
 | 난이도 | 번호 | 문제 이름 |
