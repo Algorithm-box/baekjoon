@@ -1,3 +1,12 @@
+## 2021/08/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15787](https://www.acmicpc.net/problem/15787) | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15810](https://www.acmicpc.net/problem/15810) | [풍선 공장](https://www.acmicpc.net/problem/15810) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1238](https://www.acmicpc.net/problem/1238) | [파티](https://www.acmicpc.net/problem/1238) |
+
 ## 2021/08/04 
 
 | 난이도 | 번호 | 문제 이름 |
