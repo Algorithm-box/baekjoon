@@ -1,3 +1,12 @@
+## 2021/08/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1439](https://www.acmicpc.net/problem/1439) | [뒤집기](https://www.acmicpc.net/problem/1439) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11052](https://www.acmicpc.net/problem/11052) | [카드 구매하기](https://www.acmicpc.net/problem/11052) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2141](https://www.acmicpc.net/problem/2141) | [우체국](https://www.acmicpc.net/problem/2141) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19535](https://www.acmicpc.net/problem/19535) | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) |
+
 ## 2021/08/11 
 
 | 난이도 | 번호 | 문제 이름 |
