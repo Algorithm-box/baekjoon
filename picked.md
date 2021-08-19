@@ -1,3 +1,12 @@
+## 2021/08/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2204](https://www.acmicpc.net/problem/2204) | [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18116](https://www.acmicpc.net/problem/18116) | [로봇 조립](https://www.acmicpc.net/problem/18116) |
+
 ## 2021/08/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -778,7 +787,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21275](https://www.acmicpc.net/problem/21275) | [폰 호석만](https://www.acmicpc.net/problem/21275) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16719](https://www.acmicpc.net/problem/16719) | [ZOAC](https://www.acmicpc.net/problem/16719) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [10986](https://www.acmicpc.net/problem/10986) | [나머지 합](https://www.acmicpc.net/problem/10986) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [7579](https://www.acmicpc.net/problem/7579) | [앱](https://www.acmicpc.net/problem/7579) |
 
 ## 2021/05/24 
