@@ -1,3 +1,12 @@
+## 2021/08/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2503](https://www.acmicpc.net/problem/2503) | [숫자 야구](https://www.acmicpc.net/problem/2503) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18352](https://www.acmicpc.net/problem/18352) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15823](https://www.acmicpc.net/problem/15823) | [카드 팩 구매하기](https://www.acmicpc.net/problem/15823) |
+
 ## 2021/08/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1093,7 +1102,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [5427](https://www.acmicpc.net/problem/5427) | [불](https://www.acmicpc.net/problem/5427) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [13460](https://www.acmicpc.net/problem/13460) | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |
 
 ## 2021/04/25 
