@@ -1,3 +1,12 @@
+## 2021/09/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
+
 ## 2021/09/12 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -265,7 +274,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10546](https://www.acmicpc.net/problem/10546) | [배부른 마라토너](https://www.acmicpc.net/problem/10546) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17503](https://www.acmicpc.net/problem/17503) | [맥주 축제](https://www.acmicpc.net/problem/17503) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20057](https://www.acmicpc.net/problem/20057) | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21277](https://www.acmicpc.net/problem/21277) | [짠돌이 호석](https://www.acmicpc.net/problem/21277) |
 
 ## 2021/08/13 
