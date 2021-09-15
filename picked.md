@@ -1,3 +1,12 @@
+## 2021/09/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17175](https://www.acmicpc.net/problem/17175) | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15989](https://www.acmicpc.net/problem/15989) | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2026](https://www.acmicpc.net/problem/2026) | [소풍](https://www.acmicpc.net/problem/2026) |
+
 ## 2021/09/15 
 
 | 난이도 | 번호 | 문제 이름 |
