@@ -1,3 +1,12 @@
+## 2021/09/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1941](https://www.acmicpc.net/problem/1941) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |
+
 ## 2021/09/18 
 
 | 난이도 | 번호 | 문제 이름 |
