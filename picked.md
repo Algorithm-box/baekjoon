@@ -1,3 +1,12 @@
+## 2021/09/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14912](https://www.acmicpc.net/problem/14912) | [숫자 빈도수](https://www.acmicpc.net/problem/14912) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14938](https://www.acmicpc.net/problem/14938) | [서강그라운드](https://www.acmicpc.net/problem/14938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
+
 ## 2021/09/24 
 
 | 난이도 | 번호 | 문제 이름 |
