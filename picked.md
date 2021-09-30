@@ -1,3 +1,12 @@
+## 2021/10/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17404](https://www.acmicpc.net/problem/17404) | [RGB거리 2](https://www.acmicpc.net/problem/17404) |
+
 ## 2021/09/30 
 
 | 난이도 | 번호 | 문제 이름 |
