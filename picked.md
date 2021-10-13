@@ -1,3 +1,12 @@
+## 2021/10/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1920](https://www.acmicpc.net/problem/1920) | [수 찾기](https://www.acmicpc.net/problem/1920) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5582](https://www.acmicpc.net/problem/5582) | [공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2602](https://www.acmicpc.net/problem/2602) | [돌다리 건너기](https://www.acmicpc.net/problem/2602) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2616](https://www.acmicpc.net/problem/2616) | [소형기관차](https://www.acmicpc.net/problem/2616) |
+
 ## 2021/10/13 
 
 | 난이도 | 번호 | 문제 이름 |
