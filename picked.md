@@ -1,3 +1,12 @@
+## 2021/10/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2729](https://www.acmicpc.net/problem/2729) | [이진수 덧셈](https://www.acmicpc.net/problem/2729) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [19948](https://www.acmicpc.net/problem/19948) | [음유시인 영재](https://www.acmicpc.net/problem/19948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2253](https://www.acmicpc.net/problem/2253) | [점프](https://www.acmicpc.net/problem/2253) |
+
 ## 2021/10/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1147,7 +1156,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4836](https://www.acmicpc.net/problem/4836) | [춤](https://www.acmicpc.net/problem/4836) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [7562](https://www.acmicpc.net/problem/7562) | [나이트의 이동](https://www.acmicpc.net/problem/7562) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2224](https://www.acmicpc.net/problem/2224) | [명제 증명](https://www.acmicpc.net/problem/2224) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2224](https://www.acmicpc.net/problem/2224) | [명제 증명](https://www.acmicpc.net/problem/2224) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2233](https://www.acmicpc.net/problem/2233) | [사과나무](https://www.acmicpc.net/problem/2233) |
 
 ## 2021/06/13 
