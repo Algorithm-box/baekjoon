@@ -1,3 +1,12 @@
+## 2021/10/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986](https://www.acmicpc.net/problem/3986) | [좋은 단어](https://www.acmicpc.net/problem/3986) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18404](https://www.acmicpc.net/problem/18404) | [현명한 나이트](https://www.acmicpc.net/problem/18404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1987](https://www.acmicpc.net/problem/1987) | [알파벳](https://www.acmicpc.net/problem/1987) |
+
 ## 2021/10/26 
 
 | 난이도 | 번호 | 문제 이름 |
