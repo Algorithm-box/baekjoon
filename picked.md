@@ -1,3 +1,12 @@
+## 2021/11/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1072](https://www.acmicpc.net/problem/1072) | [게임](https://www.acmicpc.net/problem/1072) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2212](https://www.acmicpc.net/problem/2212) | [센서](https://www.acmicpc.net/problem/2212) |
+
 ## 2021/11/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -967,7 +976,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1343](https://www.acmicpc.net/problem/1343) | [폴리오미노](https://www.acmicpc.net/problem/1343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [16139](https://www.acmicpc.net/problem/16139) | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [3005](https://www.acmicpc.net/problem/3005) | [크로스워드 퍼즐 쳐다보기](https://www.acmicpc.net/problem/3005) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
 
 ## 2021/08/07 
