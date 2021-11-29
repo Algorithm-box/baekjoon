@@ -1,3 +1,12 @@
+## 2021/11/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1654](https://www.acmicpc.net/problem/1654) | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1992](https://www.acmicpc.net/problem/1992) | [쿼드트리](https://www.acmicpc.net/problem/1992) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1025](https://www.acmicpc.net/problem/1025) | [제곱수 찾기](https://www.acmicpc.net/problem/1025) |
+
 ## 2021/11/29 
 
 | 난이도 | 번호 | 문제 이름 |
