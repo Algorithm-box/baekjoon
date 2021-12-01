@@ -1,3 +1,12 @@
+## 2021/12/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1697](https://www.acmicpc.net/problem/1697) | [숨바꼭질](https://www.acmicpc.net/problem/1697) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) |
+
 ## 2021/12/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -164,7 +173,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11561](https://www.acmicpc.net/problem/11561) | [징검다리](https://www.acmicpc.net/problem/11561) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11561](https://www.acmicpc.net/problem/11561) | [징검다리](https://www.acmicpc.net/problem/11561) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16401](https://www.acmicpc.net/problem/16401) | [과자 나눠주기](https://www.acmicpc.net/problem/16401) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1484](https://www.acmicpc.net/problem/1484) | [다이어트](https://www.acmicpc.net/problem/1484) |
@@ -1028,7 +1037,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15624](https://www.acmicpc.net/problem/15624) | [피보나치 수 7](https://www.acmicpc.net/problem/15624) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15624](https://www.acmicpc.net/problem/15624) | [피보나치 수 7](https://www.acmicpc.net/problem/15624) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16206](https://www.acmicpc.net/problem/16206) | [롤케이크](https://www.acmicpc.net/problem/16206) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17123](https://www.acmicpc.net/problem/17123) | [배열 놀이](https://www.acmicpc.net/problem/17123) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |
