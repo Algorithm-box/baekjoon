@@ -1,3 +1,8 @@
+## 2021/12/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -746,7 +751,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21318](https://www.acmicpc.net/problem/21318) | [피아노 체조](https://www.acmicpc.net/problem/21318) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14863](https://www.acmicpc.net/problem/14863) | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1941](https://www.acmicpc.net/problem/1941) | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |
 
@@ -800,7 +805,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
 
