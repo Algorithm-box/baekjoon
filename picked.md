@@ -1,3 +1,8 @@
+## 2022/01/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1180,7 +1185,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2018](https://www.acmicpc.net/problem/2018) | [수들의 합 5](https://www.acmicpc.net/problem/2018) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18113](https://www.acmicpc.net/problem/18113) | [그르다 김가놈](https://www.acmicpc.net/problem/18113) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1747](https://www.acmicpc.net/problem/1747) | [소수&amp;팰린드롬](https://www.acmicpc.net/problem/1747) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1747](https://www.acmicpc.net/problem/1747) | [소수&amp;팰린드롬](https://www.acmicpc.net/problem/1747) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18808](https://www.acmicpc.net/problem/18808) | [스티커 붙이기](https://www.acmicpc.net/problem/18808) |
 
 ## 2021/08/17 
