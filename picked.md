@@ -1,3 +1,8 @@
+## 2022/01/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/01/20 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -269,7 +274,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1699](https://www.acmicpc.net/problem/1699) | [제곱수의 합](https://www.acmicpc.net/problem/1699) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1927](https://www.acmicpc.net/problem/1927) | [최소 힙](https://www.acmicpc.net/problem/1927) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927](https://www.acmicpc.net/problem/1927) | [최소 힙](https://www.acmicpc.net/problem/1927) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1946](https://www.acmicpc.net/problem/1946) | [신입 사원](https://www.acmicpc.net/problem/1946) |
 
@@ -304,7 +309,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1240](https://www.acmicpc.net/problem/1240) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |
@@ -1061,7 +1066,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13902](https://www.acmicpc.net/problem/13902) | [개업 2](https://www.acmicpc.net/problem/13902) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16562](https://www.acmicpc.net/problem/16562) | [친구비](https://www.acmicpc.net/problem/16562) |
 
