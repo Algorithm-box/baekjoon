@@ -1,3 +1,8 @@
+## 2022/02/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/11 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -704,7 +709,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3085](https://www.acmicpc.net/problem/3085) | [사탕 게임](https://www.acmicpc.net/problem/3085) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2056](https://www.acmicpc.net/problem/2056) | [작업](https://www.acmicpc.net/problem/2056) |
 
 ## 2021/10/25 
@@ -2314,7 +2319,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [1212](https://www.acmicpc.net/problem/1212) | [8진수 2진수](https://www.acmicpc.net/problem/1212) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3980](https://www.acmicpc.net/problem/3980) | [선발 명단](https://www.acmicpc.net/problem/3980) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3980](https://www.acmicpc.net/problem/3980) | [선발 명단](https://www.acmicpc.net/problem/3980) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14600](https://www.acmicpc.net/problem/14600) | [샤워실 바닥 깔기 (Small)](https://www.acmicpc.net/problem/14600) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14570](https://www.acmicpc.net/problem/14570) | [나무 위의 구슬](https://www.acmicpc.net/problem/14570) |
 
