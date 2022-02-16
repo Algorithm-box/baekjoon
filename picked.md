@@ -1,3 +1,8 @@
+## 2022/02/17 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/16 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -441,7 +446,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1487](https://www.acmicpc.net/problem/1487) | [물건 팔기](https://www.acmicpc.net/problem/1487) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [15651](https://www.acmicpc.net/problem/15651) | [N과 M (3)](https://www.acmicpc.net/problem/15651) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1240](https://www.acmicpc.net/problem/1240) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |
 
 ## 2021/11/26 
@@ -1853,7 +1858,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6236](https://www.acmicpc.net/problem/6236) | [용돈 관리](https://www.acmicpc.net/problem/6236) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2961](https://www.acmicpc.net/problem/2961) | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5567](https://www.acmicpc.net/problem/5567) | [결혼식](https://www.acmicpc.net/problem/5567) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
 
