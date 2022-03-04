@@ -1,3 +1,8 @@
+## 2022/03/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1277,7 +1282,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2073](https://www.acmicpc.net/problem/2073) | [수도배관공사](https://www.acmicpc.net/problem/2073) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13902](https://www.acmicpc.net/problem/13902) | [개업 2](https://www.acmicpc.net/problem/13902) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16562](https://www.acmicpc.net/problem/16562) | [친구비](https://www.acmicpc.net/problem/16562) |
 
@@ -2357,7 +2362,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5547](https://www.acmicpc.net/problem/5547) | [일루미네이션](https://www.acmicpc.net/problem/5547) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [7569](https://www.acmicpc.net/problem/7569) | [토마토](https://www.acmicpc.net/problem/7569) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [9370](https://www.acmicpc.net/problem/9370) | [미확인 도착지](https://www.acmicpc.net/problem/9370) |
 
