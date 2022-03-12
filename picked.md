@@ -1,3 +1,8 @@
+## 2022/03/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/12 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -508,7 +513,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [11399](https://www.acmicpc.net/problem/11399) | [ATM](https://www.acmicpc.net/problem/11399) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1527](https://www.acmicpc.net/problem/1527) | [금민수의 개수](https://www.acmicpc.net/problem/1527) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1548](https://www.acmicpc.net/problem/1548) | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1548](https://www.acmicpc.net/problem/1548) | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1553](https://www.acmicpc.net/problem/1553) | [도미노 찾기](https://www.acmicpc.net/problem/1553) |
 
 ## 2021/12/02 
@@ -1453,7 +1458,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2204](https://www.acmicpc.net/problem/2204) | [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16918](https://www.acmicpc.net/problem/16918) | [봄버맨](https://www.acmicpc.net/problem/16918) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18116](https://www.acmicpc.net/problem/18116) | [로봇 조립](https://www.acmicpc.net/problem/18116) |
 
 ## 2021/08/19 
