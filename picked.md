@@ -1,3 +1,8 @@
+## 2022/03/15 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/03/14 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1173,7 +1178,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1622](https://www.acmicpc.net/problem/1622) | [공통 순열](https://www.acmicpc.net/problem/1622) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1622](https://www.acmicpc.net/problem/1622) | [공통 순열](https://www.acmicpc.net/problem/1622) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14923](https://www.acmicpc.net/problem/14923) | [미로 탈출](https://www.acmicpc.net/problem/14923) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1918](https://www.acmicpc.net/problem/1918) | [후위 표기식](https://www.acmicpc.net/problem/1918) |
