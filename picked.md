@@ -1,3 +1,9 @@
+## 2022/03/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1389](https://www.acmicpc.net/problem/1389) | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |
+
 ## 2022/03/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -915,7 +921,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2960](https://www.acmicpc.net/problem/2960) | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18290](https://www.acmicpc.net/problem/18290) | [NM과 K (1)](https://www.acmicpc.net/problem/18290) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20208](https://www.acmicpc.net/problem/20208) | [진우의 민트초코우유](https://www.acmicpc.net/problem/20208) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2115](https://www.acmicpc.net/problem/2115) | [갤러리](https://www.acmicpc.net/problem/2115) |
 
 ## 2021/10/24 
 
