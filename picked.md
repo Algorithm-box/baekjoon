@@ -1,3 +1,9 @@
+## 2022/07/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
+
 ## 2022/07/15 
 
 | 난이도 | 번호 | 문제 이름 |
