@@ -1,3 +1,8 @@
+## 2022/07/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/07/22 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1178,7 +1183,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1874](https://www.acmicpc.net/problem/1874) | [스택 수열](https://www.acmicpc.net/problem/1874) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1669](https://www.acmicpc.net/problem/1669) | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1697](https://www.acmicpc.net/problem/1697) | [숨바꼭질](https://www.acmicpc.net/problem/1697) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) |
@@ -1944,7 +1949,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4659](https://www.acmicpc.net/problem/4659) | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16973](https://www.acmicpc.net/problem/16973) | [직사각형 탈출](https://www.acmicpc.net/problem/16973) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [3108](https://www.acmicpc.net/problem/3108) | [로고](https://www.acmicpc.net/problem/3108) |
 
@@ -2366,7 +2371,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9242](https://www.acmicpc.net/problem/9242) | [폭탄 해체](https://www.acmicpc.net/problem/9242) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9242](https://www.acmicpc.net/problem/9242) | [폭탄 해체](https://www.acmicpc.net/problem/9242) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18223](https://www.acmicpc.net/problem/18223) | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11054](https://www.acmicpc.net/problem/11054) | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
