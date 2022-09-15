@@ -1,3 +1,8 @@
+## 2022/09/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2085,7 +2090,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [14405](https://www.acmicpc.net/problem/14405) | [피카츄](https://www.acmicpc.net/problem/14405) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1613](https://www.acmicpc.net/problem/1613) | [역사](https://www.acmicpc.net/problem/1613) |
 
 ## 2021/09/22 
@@ -2624,7 +2629,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10988](https://www.acmicpc.net/problem/10988) | [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11048](https://www.acmicpc.net/problem/11048) | [이동하기](https://www.acmicpc.net/problem/11048) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11048](https://www.acmicpc.net/problem/11048) | [이동하기](https://www.acmicpc.net/problem/11048) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14728](https://www.acmicpc.net/problem/14728) | [벼락치기](https://www.acmicpc.net/problem/14728) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
 
@@ -3407,7 +3412,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20053](https://www.acmicpc.net/problem/20053) | [최소, 최대 2](https://www.acmicpc.net/problem/20053) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9421](https://www.acmicpc.net/problem/9421) | [소수상근수](https://www.acmicpc.net/problem/9421) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425](https://www.acmicpc.net/problem/14425) | [문자열 집합](https://www.acmicpc.net/problem/14425) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119) |
 
