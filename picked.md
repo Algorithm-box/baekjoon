@@ -1,3 +1,8 @@
+## 2022/10/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/10/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2285,7 +2290,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
 
 ## 2021/09/12 
@@ -2807,7 +2812,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20115](https://www.acmicpc.net/problem/20115) | [에너지 드링크](https://www.acmicpc.net/problem/20115) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [21278](https://www.acmicpc.net/problem/21278) | [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20058](https://www.acmicpc.net/problem/20058) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20058](https://www.acmicpc.net/problem/20058) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11049](https://www.acmicpc.net/problem/11049) | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |
 
 ## 2021/07/16 
@@ -2844,7 +2849,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9375](https://www.acmicpc.net/problem/9375) | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9466](https://www.acmicpc.net/problem/9466) | [텀 프로젝트](https://www.acmicpc.net/problem/9466) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17143](https://www.acmicpc.net/problem/17143) | [낚시왕](https://www.acmicpc.net/problem/17143) |
 
 ## 2021/07/12 
 
