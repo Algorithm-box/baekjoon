@@ -1,3 +1,8 @@
+## 2022/10/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/10/22 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2360,7 +2365,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5568](https://www.acmicpc.net/problem/5568) | [카드 놓기](https://www.acmicpc.net/problem/5568) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [21314](https://www.acmicpc.net/problem/21314) | [민겸 수](https://www.acmicpc.net/problem/21314) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2143](https://www.acmicpc.net/problem/2143) | [두 배열의 합](https://www.acmicpc.net/problem/2143) |
 
 ## 2021/09/12 
