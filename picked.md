@@ -1,3 +1,8 @@
+## 2022/12/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/12/29 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -3243,7 +3248,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2839](https://www.acmicpc.net/problem/2839) | [설탕 배달](https://www.acmicpc.net/problem/2839) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16724](https://www.acmicpc.net/problem/16724) | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |
 
 ## 2021/07/14 
