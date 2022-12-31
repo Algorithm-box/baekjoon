@@ -1,3 +1,8 @@
+## 2023/01/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/12/31 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2417,7 +2422,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16943](https://www.acmicpc.net/problem/16943) | [숫자 재배치](https://www.acmicpc.net/problem/16943) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2457](https://www.acmicpc.net/problem/2457) | [공주님의 정원](https://www.acmicpc.net/problem/2457) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
 
 ## 2021/10/15 
 
@@ -2966,7 +2971,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1934](https://www.acmicpc.net/problem/1934) | [최소공배수](https://www.acmicpc.net/problem/1934) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2467](https://www.acmicpc.net/problem/2467) | [용액](https://www.acmicpc.net/problem/2467) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2151](https://www.acmicpc.net/problem/2151) | [거울 설치](https://www.acmicpc.net/problem/2151) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [20442](https://www.acmicpc.net/problem/20442) | [ㅋㅋ루ㅋㅋ](https://www.acmicpc.net/problem/20442) |
 
 ## 2021/08/15 
 
