@@ -1,3 +1,8 @@
+## 2023/04/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/04/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2870,7 +2875,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16943](https://www.acmicpc.net/problem/16943) | [숫자 재배치](https://www.acmicpc.net/problem/16943) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2457](https://www.acmicpc.net/problem/2457) | [공주님의 정원](https://www.acmicpc.net/problem/2457) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
@@ -3311,7 +3316,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2581](https://www.acmicpc.net/problem/2581) | [소수](https://www.acmicpc.net/problem/2581) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [5014](https://www.acmicpc.net/problem/5014) | [스타트링크](https://www.acmicpc.net/problem/5014) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20040](https://www.acmicpc.net/problem/20040) | [사이클 게임](https://www.acmicpc.net/problem/20040) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1248](https://www.acmicpc.net/problem/1248) | [Guess](https://www.acmicpc.net/problem/1248) |
